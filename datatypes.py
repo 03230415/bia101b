@@ -38,3 +38,15 @@ print(no_element)
 # append
 arra=[1,2,3]
 arra.append(4)
+arra.insert(1,10) #10 will be inserted in 1 place
+arra.sort()
+
+stack = []
+stack.append[1]
+stack.append[2]
+stack.append[5]
+stack.append[8]
+stack.append[6]
+print(stack)
+# popping
+ele = po
