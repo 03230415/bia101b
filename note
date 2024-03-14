@@ -1,0 +1,27 @@
+abstract data types
+arrays
+elements
+stack
+
+interpolation
+"john is 10 years old"
+putting varable in string
+
+string.upper()
+how to store and access the data
+std1 = [60,70,64]
+array - we can insert data in between
+stack - last in first out(60 will pop first and 70 and 64)(only append and pop)
+[60]
+[70]
+[64]
+queves - we can only add from last and pop from first
+hashmap
+bbi = 
+    dorji - 80
+    pema - 70
+    khandu - 68
+
+bbi.dorji[we will get 80]
+bbi.pema[we will gwt 70]
+bbi.khandu[.....68]
